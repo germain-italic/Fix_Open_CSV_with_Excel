@@ -2,6 +2,8 @@
 
 Ouvre les fichiers CSV dans Excel par double-clic, avec les bons réglages détectés automatiquement, au lieu du séparateur et de l'encodage imposés par Windows.
 
+![Capture d'écran](https://files.italic.fr/udAi5-2026-11/explorer_XexVtcWYn9.png)
+
 ## Détection
 
 - Encodage : UTF-8 (avec ou sans BOM), UTF-16, ANSI
