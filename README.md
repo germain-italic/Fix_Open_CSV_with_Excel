@@ -29,3 +29,7 @@ Lancer `uninstall.cmd`.
 - Brève apparition possible d'une fenêtre PowerShell à l'ouverture.
 - L'enregistrement propose `.xlsx` par défaut, pas le CSV d'origine.
 - Excel ne gère pas plus de 1 048 576 lignes.
+
+## Licence
+
+[MIT](LICENSE)
