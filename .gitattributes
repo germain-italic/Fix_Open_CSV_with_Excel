@@ -1,0 +1,3 @@
+# PowerShell 5.1 et cmd.exe : CRLF sous Windows (les .ps1 gardent leur BOM UTF-8)
+*.ps1 text eol=crlf
+*.cmd text eol=crlf
