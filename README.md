@@ -2,8 +2,6 @@
 
 Ouvre les fichiers CSV dans Excel par double-clic, avec les bons réglages détectés automatiquement, au lieu du séparateur et de l'encodage imposés par Windows.
 
-![Capture d'écran](https://files.italic.fr/udAi5-2026-11/explorer_XexVtcWYn9.png)
-
 ## Avant / après
 
 Avant : double-clic sur un CSV, Excel applique le séparateur et l'encodage de Windows.
@@ -31,6 +29,8 @@ Prérequis : Windows 10/11, Excel, Windows PowerShell 5.1 (inclus dans Windows).
 2. Clic droit sur un `.csv` → **Ouvrir avec** → **Choisir une autre application** → **Excel (import CSV propre)** → **Toujours**.
 
 Un menu « Ouvrir dans Excel (import propre) » est aussi ajouté au clic droit sur les CSV (sous Windows 11 : « Afficher d'autres options »).
+
+![Menu clic droit « Ouvrir dans Excel (import propre) »](https://files.italic.fr/udAi5-2026-11/explorer_XexVtcWYn9.png)
 
 ## Désinstallation
 
